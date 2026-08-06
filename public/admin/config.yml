@@ -2,8 +2,8 @@ backend:
   name: github
   repo: mojienjoyment/my-astro-blog-clean  # <-- CHANGE THIS!
   branch: main
-  auth_type: pkce
-  app_id: Ov23liTcbheAV2pqCVDN
+  base_url: https://decap-oauth-proxy.montanamanaba.workers.dev # <-- REPLACE WITH YOUR WORKER URL
+  auth_endpoint: auth
 
 media_folder: "public/images"
 public_folder: "/images"

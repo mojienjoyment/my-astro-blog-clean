@@ -11,7 +11,3 @@ categories:
 description: short description is required?
 ---
 here we go for 3rd test post
-
-
-
-![](/images/5cb.png)

@@ -76,7 +76,7 @@ export const SITE: SiteConfig = {
   /** Automatically generate Open Graph images for posts that don't have a `heroImage`. */
   autoOgImage: true,
   /** Show a link to the Privacy Policy page in the footer. */
-  showPrivacyPolicy: flase,
+  showPrivacyPolicy: false,
   /** Footer text/link controls. */
   footer: {
     /**
